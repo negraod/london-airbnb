@@ -24,7 +24,7 @@ Certain columns contain low-quality data and will be excluded from the analysis 
 
 <br>
 An overview of the answers is provided below.
-For the complete code, including sections Introduction, Data Cleaning and Identifying Outliers, please access the jupyter notebook file.
+For the complete code, including sections Introduction, Data Cleaning and Identifying Outliers, please access the jupyter notebook file (LondonAirbnb.ipynb).
 <br>
 <br>
 <br>
