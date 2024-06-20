@@ -33,7 +33,7 @@ For the complete code, including sections Introduction, Data Cleaning and Identi
 ![](https://github.com/negraod/london-airbnb-eda/blob/main/readme_img/eda-q2.png)
 ![](https://github.com/negraod/london-airbnb-eda/blob/main/readme_img/eda-q3.png)
 ![](https://github.com/negraod/london-airbnb-eda/blob/main/readme_img/eda-q4-01.png)
-![](https://github.com/negraod/london-airbnb-eda/blob/main/readme_img/eda-q4-02.png)
+![](https://github.com/negraod/london-airbnb-eda/blob/main/readme_img/eda-q4-02-.png)
 ![](https://github.com/negraod/london-airbnb-eda/blob/main/readme_img/eda-q4-03.png)
 ![](https://github.com/negraod/london-airbnb-eda/blob/main/readme_img/eda-q4-04.png)
 ![](https://github.com/negraod/london-airbnb-eda/blob/main/readme_img/eda-q4-05.png)
