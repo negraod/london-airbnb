@@ -22,11 +22,9 @@ This dataset contains information about Airbnb properties in the London region a
 
 Certain columns contain low-quality data and will be excluded from the analysis to ensure the integrity and reliability of the remaining dataset.
 
-<br>
+<br><br><br>
 An overview of the answers is provided below.
 For the complete code, including sections Introduction, Data Cleaning and Identifying Outliers, please access the jupyter notebook file (LondonAirbnb.ipynb).
-<br>
-<br>
 <br>
 
 ![](https://github.com/negraod/london-airbnb-eda/blob/main/readme_img/eda-q1.png)
