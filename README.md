@@ -24,6 +24,11 @@ This dataset contains information about Airbnb properties in the London region a
     * A versatile feature engineering transformer enabling testing of various configurations within scikit-learn's pipeline.
     * Automatic column type detection, facilitating integration with the feature engineering transformer by accommodating dynamically created columns.
 
+* **ML02_Tree Models.ipynb**  
+  Evaluation of Tree-Based models using Optuna for hyperparameter optimization, including:
+    * Implementation of RepeatPruner to prevent redundant tests of parameter combinations.
+    * Analysis of Feature Importances.
+
 
 
 
